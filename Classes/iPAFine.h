@@ -5,7 +5,6 @@
 //
 @interface iPAFine : NSObject
 {
-@private
 	NSString *_error;
 }
 
